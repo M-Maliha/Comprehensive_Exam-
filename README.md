@@ -2,7 +2,7 @@
 
 Download Anaconda installer for OS operating system  using this  (https://www.anaconda.com/products/distribution). Afterwards, intall the Anaconda setup follwing the instructions found here (https://docs.anaconda.com/anaconda/install/)
 
-**Clone this Repository:"**
+**To Clone this Repository:**
 
 git clone https://github.com/M-Maliha/Comprehensive_Exam-.git
  
