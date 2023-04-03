@@ -1,0 +1,34 @@
+Row Labels,Count of Species,best,worst
+ACMI,21,ACMI,Forb
+ACTH,109,ACTH,Grass
+AGCR,194,AGCR,Grass
+ARAR,1916,ARAR,ARTR
+ARPU,2,Grass,Grass
+ARTR,4123,ARTR,ARTR
+ARTR4,2,ARTR,ARTR
+ARTRV,16,ARTR,ARTR
+ARTRW,227,ARTR,ARTR
+Aster,1,Forb,Forb
+Asteraceae,1,Forb,Forb
+BAHO,2,Forb,Forb
+BAPR,7,Remove,Remove
+CHJU,23,CHJU,Forb
+CHVI,358,CHVI,CHVI
+Cirsium,18,Cirsium,Forb
+Crepis,13,Crepis,Forb
+Dead,228,Dead,Dead
+ELEL,85,ELEL,Grass
+ERNA,314,ERNA,ERNA
+ERSP,9,ERSP,Subshrub
+LECI,22,LECI,Grass
+Lupinus,97,Lupinus,Forb
+NA,278355,NA,NA
+Phacelia,20,Phacelia,Forb
+Phlox,1,Subshrub,Subshrub
+POSE,21,POSE,Grass
+PSSP,66,PSSP,Grass
+PUTR,151,PUTR,PUTR
+RIAU,1,Subshrub,Subshrub
+ROWO,7,ROWO,Subshrub
+(blank),,,
+Grand Total,286410,,
